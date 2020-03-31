@@ -10,7 +10,7 @@ const Landing = () => {
 
   return (
   <View style={styles.App}>
-    <Text>Essencia Pilates</Text>
+    <Text style={styles.title}>Essencia Pilates</Text>
     <Button
       onPress={goToEvaluation}
       title="Entrar on this"

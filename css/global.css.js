@@ -7,7 +7,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#aed8e5',
     alignItems: 'center',
     justifyContent: 'center',
-  }
+    fontSize: 50,
+  },
+  title: {
+    fontSize: 30,
+  },
 });
 
 export { styles };
